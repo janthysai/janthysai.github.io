@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://janthysai.github.io/sitemap
+Sitemap: https://janthysai.github.io/app/sitemap
+Sitemap: https://janthysai.github.io/assets/sitemap
+Sitemap: https://janthysai.github.io/css/sitemap
+Sitemap: https://janthysai.github.io/includes/sitemap
+Sitemap: https://janthysai.github.io/item/sitemap
+Sitemap: https://janthysai.github.io/src/sitemap
